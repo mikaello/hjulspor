@@ -17,3 +17,9 @@ Du trenger bare en lokal webserver, for eksempel `python3 -m http.server 4173`.
 - `docs/first-release.md` beskriver den avtalte første versjonen.
 
 Nettstedet kan publiseres på en vanlig statisk webvert, også uten eget domene.
+
+## GitHub Pages
+
+Publiseringsarbeidsflyten i `.github/workflows/publish-pages.yml` kjøres manuelt fra `main`.
+Etter at endringene er slått sammen, kjør `gh workflow run publish-pages.yml --ref main` når nettstedet skal publiseres.
+Den laster opp `dist/` til GitHub Pages på `https://mikaello.github.io/hjulspor/`.
