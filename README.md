@@ -20,6 +20,6 @@ Nettstedet kan publiseres på en vanlig statisk webvert, også uten eget domene.
 
 ## GitHub Pages
 
-Publiseringsarbeidsflyten i `.github/workflows/publish-pages.yml` kjøres manuelt fra `main`.
-Etter at endringene er slått sammen, kjør `gh workflow run publish-pages.yml --ref main` når nettstedet skal publiseres.
+Publiseringsarbeidsflyten i `.github/workflows/publish-pages.yml` kjører automatisk når endringer lander på `main`.
+Den kan også startes manuelt med `gh workflow run publish-pages.yml --ref main`.
 Den laster opp `dist/` til GitHub Pages på `https://mikaello.github.io/hjulspor/`.
