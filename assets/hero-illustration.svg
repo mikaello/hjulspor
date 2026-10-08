@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sykkel på vei hjem</title>
+  <desc id="desc">En illustrert sykkel med en stiplet rute mellom to punkter.</desc>
+  <rect x="32" y="25" width="576" height="458" rx="45" fill="#DDEBE2"/>
+  <circle cx="450" cy="145" r="80" fill="#F7C970"/>
+  <path d="M32 395c117-78 176-45 252-16 76 30 176 23 324-53v112c0 25-20 45-45 45H77c-25 0-45-20-45-45v-43Z" fill="#B5D7C4"/>
+  <path d="M85 410c90-63 160-64 244-37 92 30 171-13 236-56" stroke="#F6F7EF" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <circle cx="137" cy="172" r="22" fill="#FFFDF7" stroke="#1B4D3F" stroke-width="4"/>
+  <circle cx="137" cy="172" r="5" fill="#EB7657"/>
+  <path d="M137 193v21" stroke="#1B4D3F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="507" cy="294" r="22" fill="#FFFDF7" stroke="#1B4D3F" stroke-width="4"/>
+  <circle cx="507" cy="294" r="5" fill="#EB7657"/>
+  <path d="M507 315v21" stroke="#1B4D3F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M159 184c66 2 76 76 112 83 61 11 54-69 108-67 46 1 50 73 106 85" stroke="#1B4D3F" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="2 11"/>
+  <circle cx="227" cy="350" r="65" fill="#FFFDF7" stroke="#18483A" stroke-width="8"/>
+  <circle cx="440" cy="350" r="65" fill="#FFFDF7" stroke="#18483A" stroke-width="8"/>
+  <circle cx="227" cy="350" r="8" fill="#18483A"/>
+  <circle cx="440" cy="350" r="8" fill="#18483A"/>
+  <path d="m227 350 89-149 74 149H227Zm89-149h-47m121 149 43-138h27" stroke="#18483A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m269 201-12-20h-19m195 31-16-23h-24" stroke="#18483A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M335 353h20m-10-11v22" stroke="#EB7657" stroke-width="8" stroke-linecap="round"/>
+  <path d="M83 300c0-12 10-22 22-22s22 10 22 22-10 22-22 22-22-10-22-22Z" fill="#F7F3E9"/>
+  <path d="m97 300 6 6 11-13" stroke="#1B4D3F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
