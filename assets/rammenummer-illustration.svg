@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="title desc">
+  <title id="title">Rammenummer under krankhuset</title>
+  <desc id="desc">En sykkel sett fra siden. En pil peker på undersiden av krankhuset midt mellom pedalene.</desc>
+  <rect width="760" height="400" rx="30" fill="#e3efe5"/>
+  <path d="M48 338H712" stroke="#bbd8c1" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#214a3c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="160" cy="264" r="85"/>
+    <circle cx="604" cy="264" r="85"/>
+    <path d="M160 264 334 105 386 264 160 264M334 105 505 128 386 264M505 128 604 264"/>
+    <path d="M505 128 520 78 557 78M510 81h76M334 105l-10-37M289 68h71"/>
+  </g>
+  <g fill="none" stroke="#214a3c" stroke-width="7" stroke-linecap="round">
+    <circle cx="386" cy="264" r="20"/>
+    <path d="M386 264 414 286M414 286h31M386 264 358 242M330 242h28"/>
+  </g>
+  <path d="M374 286q12 9 25 0" fill="none" stroke="#d56847" stroke-width="9" stroke-linecap="round"/>
+  <path d="M389 349v-42" fill="none" stroke="#d56847" stroke-width="4" stroke-linecap="round"/>
+  <path d="m380 317 9-10 9 10" fill="none" stroke="#d56847" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="260" y="342" width="258" height="40" rx="20" fill="#17382f"/>
+  <text x="389" y="368" text-anchor="middle" fill="#fffefa" font-family="Avenir Next, Avenir, Segoe UI, sans-serif" font-size="17" font-weight="700">Se under krankhuset</text>
+</svg>

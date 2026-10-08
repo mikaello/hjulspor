@@ -9,7 +9,7 @@ Startsiden forklarer formålet og tilbyr tre tydelige veier: «Jeg har mistet sy
 Den forebyggende veien anbefaler først den gratis, ideelle tjenesten Bike Index og forklarer at FG-godkjente registre kan gi forsikringsfordeler etter den enkeltes vilkår.
 Hver inngang leder til en kort veiledningsside, og rådene skiller mellom en bortkommen sykkel og mistanke om tyveri.
 Funnsiden anbefaler registrering hos Bike Index også når finderen ikke kjenner rammenummeret.
-Første versjon lenker til FGs offisielle felles søk for de fire FG-godkjente registrene, fulgt av Bike Index og Sykkelreg.
+Første versjon lenker til FGs offisielle felles søk for de fire FG-godkjente registrene, fulgt av Bike Index.
 Lenker til hvert enkelt FG-register er tilgjengelige for videre oppfølging.
 Hjulspor søker ikke på vegne av brukeren, og et søk uten treff sier ikke at sykkelen er lovlig eid eller ikke stjålet.
 Et mulig søk via Bike Index sitt dokumenterte API er utsatt til en senere iterasjon.

@@ -8,7 +8,8 @@ FG Skadeteknikk har allerede [ett offentlig søk på tvers av fire FG-godkjente 
 Disse registrene er BikeKey/NAF Sykkel, BikeFolder, BikeMember og Solid Register, ifølge [FGs oversikt](https://www.fgsikring.no/innbrudd/sykkelregister).
 Et treff må følges opp hos registeret som har registreringen.
 De fire har også egne søk: [Solidregister](https://solidregister.no/sok-sykkel/), [BikeMember](https://bikemember.no/soke/), [BikeKey](https://app.bikekey.com/org-bike-search/) og [BikeFolder](https://app.bikefolder.com/fg).
-[Sykkelreg](https://www.sykkelreg.no/finneier) og [Bike Index](https://bikeindex.org/search/registrations) har separate søk utenfor FGs felles oppslag.
+Sykkelreg.no har et eget søk utenfor FGs felles oppslag og står ikke på [FGs liste over godkjente registre](https://www.fgsikring.no/innbrudd/sykkelregister).
+[Bike Index](https://bikeindex.org/search/registrations) har også et eget søk utenfor FG-oppslaget.
 
 Registrering hos Bike Index etter et tyveri kan fortsatt bidra til å finne sykkelen.
 Forsikringsfordeler ved FG-registrering varierer med avtalen, og registrering etter skaden må ikke fremstilles som en retroaktiv rabatt.
