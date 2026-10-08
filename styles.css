@@ -660,6 +660,10 @@ p {
   background: #eef5eb;
 }
 
+.notice + .notice {
+  margin-top: 1rem;
+}
+
 .notice.warm {
   border-color: #d56d49;
   background: #fff0e6;
