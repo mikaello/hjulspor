@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hjulspor</title>
+  <desc id="desc">En enkel sykkel med to hjul og en rett forgaffel.</desc>
+  <rect width="48" height="48" rx="15" fill="#173D34"/>
+  <g stroke="#F7F3E9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="34" r="7" stroke-width="2.4"/>
+    <circle cx="36" cy="34" r="7" stroke-width="2.4"/>
+    <path d="M12 34 21 18 25 34 12 34M21 18l10 2M33 24l-8 10M28 10l8 24" stroke-width="2.3"/>
+    <path d="m21 18-1-4m-3 0h7M25 10h8l2-2" stroke-width="2.3"/>
+  </g>
+  <circle cx="25" cy="34" r="1.8" fill="#F5B94D"/>
+</svg>

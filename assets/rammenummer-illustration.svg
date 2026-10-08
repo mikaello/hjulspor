@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="title desc">
+  <title id="title">Rammenummer under krankhuset</title>
+  <desc id="desc">En sykkel sett fra siden. En pil peker på undersiden av krankhuset midt mellom pedalene.</desc>
+  <rect width="760" height="400" rx="30" fill="#e3efe5"/>
+  <path d="M48 338H712" stroke="#bbd8c1" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#8eb8a6" stroke-width="2" opacity=".7">
+    <path d="M148 179v170M63 264h170M88 204l120 120M88 324l120-120"/>
+    <path d="M610 179v170M525 264h170M550 204l120 120M550 324l120-120"/>
+  </g>
+  <g fill="none" stroke="#214a3c" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="10">
+      <circle cx="148" cy="264" r="85"/>
+      <circle cx="610" cy="264" r="85"/>
+      <path d="M148 264 312 112 382 264 148 264"/>
+      <path d="M312 112 532 122M551 157 382 264"/>
+      <path d="M508 78 610 264"/>
+      <path d="M312 112 299 73M270 70h72M490 77h60"/>
+    </g>
+    <g stroke-width="7">
+      <circle cx="382" cy="264" r="20"/>
+      <path d="M382 264 411 286M411 286h30M382 264 353 242M324 242h29"/>
+    </g>
+  </g>
+  <path d="M370 286q12 9 25 0" fill="none" stroke="#d56847" stroke-width="9" stroke-linecap="round"/>
+  <path d="M382 349v-42" fill="none" stroke="#d56847" stroke-width="4" stroke-linecap="round"/>
+  <path d="m373 317 9-10 9 10" fill="none" stroke="#d56847" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="253" y="342" width="258" height="40" rx="20" fill="#17382f"/>
+  <text x="382" y="368" text-anchor="middle" fill="#fffefa" font-family="Avenir Next, Avenir, Segoe UI, sans-serif" font-size="17" font-weight="700">Se under krankhuset</text>
+</svg>
