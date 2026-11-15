@@ -10,7 +10,7 @@
     "verify:build": "node scripts/verify.mjs dist"
   },
   "devDependencies": {
-    "html-validate": "11.16.2",
+    "html-validate": "11.21.1",
     "prettier": "3.9.9",
     "stylelint": "17.16.0",
     "stylelint-config-standard": "40.0.0"
